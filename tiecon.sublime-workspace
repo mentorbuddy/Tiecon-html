@@ -11,7 +11,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 6366,
+				"buffer_size": 3261,
 				"line_ending": "Windows"
 			}
 		}
@@ -82,7 +82,6 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
 				{
@@ -90,7 +89,7 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 6366,
+						"buffer_size": 3261,
 						"regions":
 						{
 						},
@@ -107,7 +106,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 58.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
