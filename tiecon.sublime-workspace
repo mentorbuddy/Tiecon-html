@@ -40,6 +40,8 @@
 	},
 	"file_history":
 	[
+		"/Users/Batman/Working/Sites/Tiecon html/index.html",
+		"/Users/Batman/Downloads/html5up-alpha/about.html",
 		"/Users/Batman/Downloads/worona-mobile-app/content/json/local_options.json",
 		"/Users/Batman/Downloads/worona-mobile-app/worona-config/about.lua",
 		"/Users/Batman/Downloads/worona-mobile-app/main.lua",
@@ -82,6 +84,7 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -106,7 +109,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 58.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
