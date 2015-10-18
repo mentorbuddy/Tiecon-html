@@ -7,14 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 3258,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -41,7 +33,11 @@
 	"file_history":
 	[
 		"/Users/Batman/Working/Sites/Tiecon html/index.html",
+		"/Users/Batman/Downloads/html5up-alpha/schedule.html",
+		"/Users/Batman/Downloads/html5up-alpha/Mentor.html",
 		"/Users/Batman/Downloads/html5up-alpha/about.html",
+		"/Users/Batman/Downloads/html5up-alpha/index.html",
+		"/Users/Batman/Working/Sites/Tiecon html/splashcreen.html",
 		"/Users/Batman/Downloads/worona-mobile-app/content/json/local_options.json",
 		"/Users/Batman/Downloads/worona-mobile-app/worona-config/about.lua",
 		"/Users/Batman/Downloads/worona-mobile-app/main.lua",
@@ -84,36 +80,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 3258,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
