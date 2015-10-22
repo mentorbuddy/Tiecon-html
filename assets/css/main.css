@@ -1799,7 +1799,7 @@
 		color: #777;
 		font-family: "Source Sans Pro", sans-serif;
 		font-size: 16pt;
-		font-weight: 300;
+		font-weight: 500;
 		line-height: 1.65em;
 		letter-spacing: -0.015em;
 	}
@@ -2557,7 +2557,7 @@
 
 		table th {
 			color: #646464;
-			font-size: 0.9em;
+			font-size: 1.2em;
 			font-weight: 300;
 			padding: 0 0.75em 0.75em 0.75em;
 			text-align: left;
